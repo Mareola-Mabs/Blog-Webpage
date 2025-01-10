@@ -15,4 +15,3 @@
 ![Homepage](./assets/images/snippet2.png)
 ![Homepage](./assets/images/snippet3.png)
 ![Mobile View](./assets/images/snippet4.png)
-![Mobile Nav Menu](./assets/images/snippet5.png)
